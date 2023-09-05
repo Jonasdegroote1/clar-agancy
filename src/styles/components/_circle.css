@@ -1,0 +1,7 @@
+.circles{
+  width: 40rem;
+}
+svg{
+  width: 100%;
+  aspect-ratio: 1/1;
+}

@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  writing-mode: vertical-rl;
+  font-size: 10rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: var(--head-color-blue);
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: var(--head-color-white);
+}
+
+.header_logo {
+  display: flex;
+  color: var(--head-color-blue);
+  font-size: 5rem;
+  font-family: var(--font-title);
+  font-weight: 300;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.header_logo span {
+  font-size: 1rem;
+  padding-top: 1.5rem;
+  text-transform: uppercase;
+  font-family: var(--font-body);
+}
+
+
+.header__subtitle {
+  margin-top: 20rem;
+  font-size: 1.5rem;
+  justify-content: flex-start;
+  color: var(--head-color-blue);
+  padding-left: 20rem;
+}

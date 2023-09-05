@@ -1,0 +1,14 @@
+:root {
+  --head-color-light: hsl(43, 33%, 96%);
+  --head-color-dark: hsl(0, 0%, 11%);
+  --head-color-blue: hsl(226, 90%, 32%);
+  --head-color-darkgreen: hsl(166, 67%, 15%);
+  --head-color-lightgreen: hsl(161, 40%, 67%);
+  --head-color-brown: hsl(14, 45%, 44%);
+  --head-color-yellow: hsl(40, 89%, 60%);
+  --head-color-beige: hsl(23, 79%, 85%);
+  --head-color-white: hsl(0, 0%, 100%);
+
+  --font-title: 'Canela', serif;
+  --font-body: 'Akzidenz-Grotesk', sans-serif;
+}

@@ -1,0 +1,9 @@
+.founders {
+  background-color: var(--head-color-brown);
+  color: var(--head-color-beige);
+}
+
+.team-member {
+  padding: 2rem 4rem;
+  border-bottom: solid var(--head-color-beige) 1px;
+}

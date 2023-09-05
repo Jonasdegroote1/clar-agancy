@@ -1,0 +1,9 @@
+.horizontal__scroll {
+  color: var(--head-color-blue);
+  transform: translateX(40rem);
+}
+
+.horizontal__scroll-info {
+  width: 12rem;
+  aspect-ratio: 3 / 4;
+}

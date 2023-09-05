@@ -1,0 +1,15 @@
+button {
+  color: var(--head-color-white);
+  background-color: var(--head-color-blue);
+  padding: 6rem 5rem;
+  border-radius: 50%;
+  border: none;
+  width: max-content;
+  margin: 0 auto;
+  transition: all 0.5s ease-in-out;
+
+}
+
+button:hover {
+  transform: scale(0.7) rotate(20deg);
+}

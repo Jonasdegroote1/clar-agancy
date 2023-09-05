@@ -1,0 +1,42 @@
+.information {
+  padding-bottom: 5rem;
+  width: 25rem;
+}
+
+.information-title {
+  border-bottom: solid var(--head-color-blue) 1px;
+  max-width: max-content;
+  color: var(--head-color-blue);
+  width: 25rem;
+}
+
+.information-text {
+  width: 25rem;
+  padding-top: 1rem;
+  color: var(--head-color-blue);
+}
+
+.lottie-animation .information-title {
+  border-bottom: solid var(--head-color-light) 1px;
+  color: var(--head-color-light);
+}
+
+.lottie-animation .information-text {
+  color: var(--head-color-light);
+}
+
+
+.circle-animation .information {
+  margin-left: 10rem;
+  padding-bottom: 5rem;
+}
+
+.circle-animation .information-title {
+  border-bottom: solid var(--head-color-lightgreen) 1px;
+  color: var(--head-color-lightgreen);
+}
+
+.circle-animation .information-text {
+  color: var(--head-color-lightgreen);
+  font-size: 1.5rem;
+}

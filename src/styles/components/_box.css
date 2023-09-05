@@ -1,0 +1,12 @@
+.box {
+  --dimensions: 3rem;
+
+  position: fixed;
+  width: var(--dimensions);
+  height: var(--dimensions);
+  mix-blend-mode: difference;
+
+  background-color: var(--head-color-blue);
+  z-index: 5;
+  border-radius: 50%;
+}

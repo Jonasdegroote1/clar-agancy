@@ -1,0 +1,4 @@
+.custom-list li::marker {
+  content: "\2731";
+  font-size: .8rem;
+}

@@ -1,0 +1,7 @@
+.contact {
+  background-color: var(--head-color-yellow);
+  height: 100vh;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+}
